@@ -66,13 +66,8 @@
     "@eslint/js": "^9.9.0",
     "@tailwindcss/typography": "^0.5.15",
     "@types/node": "^22.15.31",
-<<<<<<< HEAD
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-=======
     "@types/react": "^18.3.23",
     "@types/react-dom": "^18.3.7",
->>>>>>> dc564aa (Initial commit from local changes)
     "@vitejs/plugin-react-swc": "^3.5.0",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.9.0",
